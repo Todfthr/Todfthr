@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dadarsh352@gmail.com**
 
-- ⚡ Fun fact **I am Smart**
+- ⚡ Fun fact **"I don’t hold grudges, I just keep receipts."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
