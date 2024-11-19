@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **dadarsh352@gmail.com**
 
-- ⚡ Fun fact **"I don’t hold grudges, I just keep receipts."**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adarsh76342500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarsh76342500" height="30" width="40" /></a>
