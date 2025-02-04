@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adarsh76342500" target="blank"><img src="https://img.shields.io/twitter/follow/adarsh76342500?logo=twitter&style=for-the-badge" alt="adarsh76342500" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Angular JS**
 
 - 💬 Ask me about **Java Development, Web Development**
 
