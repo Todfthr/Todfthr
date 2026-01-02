@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular JS**
 
-- 💬 Ask me about **Java Development, Web Development**
+- 💬 Ask me about **Frontend Development, Web Development, Angular, ReactJS**
 
 - 📫 How to reach me **dadarsh352@gmail.com**
 
